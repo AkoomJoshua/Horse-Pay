@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    width: 100%;
+    color: white;
+}
+header{
+    height: 200px;
+    width: 100%;
+}
+.title{
+}
+.title img{
+    float: left;
+    height: 75px;
+    width: 150px;
+}
+.shade{
+    background-color: rgba(00, 00, 00, 0.5);
+    height: 1000px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+}
+.title{
+    float: left;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.Electricity{
+    background-color: darkorange;
+    border-radius: 10%;
+}
+ul {
+    margin-left: 400px;
+    list-style-type: none;
+    margin-top: 25px;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+.intro{
+    padding-left: 100px;
+    padding-top: 100px;
+    clear: left;
+    width: 48%;
+    float: left;
+}
+.intro h4{
+    font-size: 23px;
+    font-weight: 800;
+
+}
+.intro button{
+    padding: 14px 16px;
+    background-color: darkorange;
+    border-radius: 10%;
+    margin: 30px 0px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+.card-container{
+    float: right;
+    background-color: darkorange;
+    height: 500px;
+    width: 350px;
+    margin-right: 150px;
+    border-radius: 5%;
+    margin-top: 50px;
+}
+.card-container button{
+    padding: 5px 25px;
+    background-color: white;
+    border-radius: 10%;
+    margin-top: 25px;
+    margin-left: 125px;
+}
+.input{
+    margin-top: 5px;
+    width: 250px;
+    border-radius: 5%;
+    margin-left: 50px;
+    height: 25px;
+    padding-left: 10px;
+    border: 2px solid white;
+}
+.input p{
+    position: top;
+    font-weight: 800;
+}
+.card-container h1{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 25px;
+
+}
+.card-container p{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.reset{
+    float: right;
+    margin-right: 10px;
+}
+.questions{
+    clear: right;
+    width: 99%;
+    height:185px;
+    text-align: center;
+    margin-top: 15px;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
+.payment-on-go{
+    color: yellow;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.app-download{
+    float: left;
+    margin-right: 10px;
+    height: 50px;
+    width: 200px;
+    border-radius: 15%;
+    padding-bottom: 15px; 
+    margin-top: 25px;
+}
+.app-download img{
+    height: 50px;
+    width: 200px;
+    border-radius: 5%;
+    margin-right: 15px;
+
+}
+.container{
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    float: left;
+    margin-right: 50px;
+    border-radius: 100%;
+    margin-top: 125px;
+    margin-bottom: 0px;
+}
+.chat-container{
+    height: 80px;
+    width: 80px;
+    background-color: darkorange;
+    clear: right;
+    float: right;
+    border-radius: 100%;
+    margin-right: 50px;
+    margin-top: 90px;
+    margin-bottom: 0px;
+}
+.chat-container img{
+    height: 50px;
+    width: 50px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.clearfix{
+    clear: left;
+    padding-left: 100px;
+    width: 100%;
+}
+.unique{
+    font-size: 20px;
+}
+.container img{
+    padding-left: 20px;
+    padding-top: 20px;
+    height: 30px;
+    width: 40px;
+}
+.container b{
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    padding-bottom: 10px;
+    padding-left: 23px;
+    font-family: Avenir;
+}
+.reset a{
+    text-decoration: none;
+    color: white;
+}
+.login {
+    color: black;
+}
+.chat-container img{
+    padding-left: 15px;
+    padding-top: 15px;
+    height: 50px;
+    width: 50px;
+}
+.intro a{
+    font-size: 16px;
+    font-weight: 800;
+}
+.card-container a{
+    font-weight: 800;
+
+} 
